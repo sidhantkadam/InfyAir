@@ -11,7 +11,7 @@ const Home = () => {
         backgroundPosition: 'right top'
       }}>
         <Grid style={{color: 'black'}}>
-        <h1 >Welcome to InfyAirline</h1>
+        <h1 >Welcome to InfyAir</h1>
         <h5>The World on Wings, since 1972</h5>
         <hr />
         <p style={{fontSize: 13, textIndent: 20}}>
